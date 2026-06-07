@@ -1,5 +1,7 @@
 # Retirement Monte Carlo Simulator
 
+Author: Asrar Merchant
+
 An interactive retirement planning tool built in Python and Streamlit that models 
 portfolio growth and retirement sustainability using Monte Carlo simulation.
 
